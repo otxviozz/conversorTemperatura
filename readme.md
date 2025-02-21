@@ -1,1 +1,2 @@
-Estou aprendendo a utilizar o Git e Github
+Estou fazendo os primeiros versionamentos e entendendo como funciona o Git e GitHub
+Esses projetos já haviam sido desenvolvidos antes, somente o código, entretanto, ainda não havia colocado os mesmos no GitHub.
